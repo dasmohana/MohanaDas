@@ -1,5 +1,7 @@
 # Experience
 
+--------------------------
+
 **December 2018-Present**    _Technical Writer, Xilinx (Hyderabad, India)_
 
 * Developed documentation including user guides, product guides, and GitHub tutorials, for Xilinx’s newest products: the Versal&trade; ACAP, the Vitis&trade; Unified Software Platform, and Vitis AI.

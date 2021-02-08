@@ -1,5 +1,7 @@
 # Other
 
+-----------------
+
 ## Volunteering
 
 **February 2021 - Present** Open Source Contribution
