@@ -10,7 +10,7 @@ Developing documentation for Xen.
 
 ## Blog
 
-**June 2018 - Present** ravel Blog
+**June 2018 - Present** Travel Blog
 
 Developing, editing, and publishing content for [Two Together](https://two-together.com).
 
