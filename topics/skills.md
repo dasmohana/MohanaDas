@@ -1,4 +1,10 @@
+---
+layout: layout
+---
+
 # Skills
+
+---------------------
 
 Advanced: DITA, Microsoft Office Suite, Adobe Acrobat Pro, Jira, Confluence
 
