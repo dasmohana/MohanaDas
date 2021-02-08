@@ -7,4 +7,4 @@ Technical writer with 2 years of experience in scoping, planning, writing, and e
 [Skills](topics/skills.md)
 [Others](topics/other.md)
 
-{% include common.txt %}
+{% include copyright.md %}
