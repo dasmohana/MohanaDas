@@ -2,12 +2,6 @@
 
 -----------------
 
-## Volunteering
-
-**February 2021 - Present** Open Source Contribution
-
-Developing documentation for Xen.
-
 ## Blog
 
 **June 2018 - Present** Travel Blog
